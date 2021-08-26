@@ -1,0 +1,319 @@
+2021-08-12 14:49:12,192 - EBankingTest -INFO - URL is opened
+2021-08-12 14:49:12,497 - EBankingTest -INFO - Entered User Name
+2021-08-12 14:49:12,619 - EBankingTest -INFO - Entered Password
+2021-08-12 14:49:15,020 - EBankingTest -INFO - Login Test Pass
+2021-08-12 14:51:32,827 - EBankingTest -INFO - URL is opened
+2021-08-12 14:51:32,982 - EBankingTest -INFO - Entered User Name
+2021-08-12 14:51:33,171 - EBankingTest -INFO - Entered Password
+2021-08-12 14:51:34,717 - EBankingTest -INFO - Login Test Pass
+2021-08-12 15:11:49,617 - EBankingTest -INFO - URL is opened
+2021-08-12 15:11:49,770 - EBankingTest -INFO - Entered User Name
+2021-08-12 15:11:49,932 - EBankingTest -INFO - Entered Password
+2021-08-12 15:11:51,093 - EBankingTest -INFO - Login Test Pass
+2021-08-12 18:46:04,612 - EBankingTest -INFO - URL is opened
+2021-08-12 18:46:04,768 - EBankingTest -INFO - Entered User Name
+2021-08-12 18:46:04,889 - EBankingTest -INFO - Entered Password
+2021-08-12 18:46:06,212 - EBankingTest -INFO - Login Test Pass
+2021-08-13 19:48:29,878 - EBankingTest -INFO - URL is opened
+2021-08-13 19:48:30,137 - EBankingTest -INFO - Entered User Name
+2021-08-13 19:48:30,253 - EBankingTest -INFO - Entered Password
+2021-08-13 19:48:31,257 - EBankingTest -INFO - Login Test Pass
+2021-08-16 14:36:58,543 - EBankingTest -INFO - URL is opened
+2021-08-16 14:36:58,764 - EBankingTest -INFO - Entered User Name
+2021-08-16 14:36:58,845 - EBankingTest -INFO - Entered Password
+2021-08-16 14:39:05,365 - EBankingTest -INFO - URL is opened
+2021-08-16 14:39:05,480 - EBankingTest -INFO - Entered User Name
+2021-08-16 14:39:05,596 - EBankingTest -INFO - Entered Password
+2021-08-16 14:39:06,596 - EBankingTest -INFO - Login Test Pass
+2021-08-16 17:55:40,057 - EBankingTest -INFO - URL is opened
+2021-08-16 17:55:40,184 - EBankingTest -INFO - Entered User Name
+2021-08-16 17:55:40,268 - EBankingTest -INFO - Entered Password
+2021-08-16 17:55:41,365 - EBankingTest -INFO - Login Test Pass
+2021-08-16 17:58:17,551 - EBankingTest -INFO - URL is opened
+2021-08-16 17:58:17,683 - EBankingTest -INFO - Entered User Name
+2021-08-16 17:58:17,709 - EBankingTest -INFO - Entered Password
+2021-08-16 17:58:19,053 - EBankingTest -INFO - Login Test Pass
+2021-08-16 18:02:03,307 - EBankingTest -INFO - URL is opened
+2021-08-16 18:02:03,714 - EBankingTest -INFO - Entered User Name
+2021-08-16 18:02:03,886 - EBankingTest -INFO - Entered Password
+2021-08-16 18:02:05,056 - EBankingTest -INFO - Login Test Pass
+2021-08-17 19:41:41,536 - EBankingTest -INFO - URL is opened
+2021-08-17 19:41:41,691 - EBankingTest -INFO - Entered User Name
+2021-08-17 19:41:41,772 - EBankingTest -INFO - Entered Password
+2021-08-17 19:41:42,867 - EBankingTest -INFO - Login Test Pass
+2021-08-17 19:51:29,360 - EBankingTest -INFO - URL is opened
+2021-08-17 19:51:29,537 - EBankingTest -INFO - Entered User Name
+2021-08-17 19:51:29,652 - EBankingTest -INFO - Entered Password
+2021-08-17 19:51:30,746 - EBankingTest -INFO - Login Test Pass
+2021-08-23 15:22:37,288 - EBankingTest -INFO - URL is opened
+2021-08-23 15:22:37,525 - EBankingTest -INFO - Entered User Name
+2021-08-23 15:22:37,584 - EBankingTest -INFO - Entered Password
+2021-08-23 15:22:42,277 - EBankingTest -INFO - Login Test Pass
+2021-08-23 16:01:58,416 - EBankingTest -INFO - URL is opened
+2021-08-23 16:01:58,551 - EBankingTest -INFO - Entered User Name
+2021-08-23 16:01:58,645 - EBankingTest -INFO - Entered Password
+2021-08-23 18:32:03,394 - EBankingTest -INFO - user name provided
+2021-08-23 18:32:03,460 - EBankingTest -INFO - password provided
+2021-08-23 18:32:07,788 - EBankingTest -INFO - Login passed
+2021-08-23 18:36:45,286 - EBankingTest -INFO - user name provided
+2021-08-23 18:36:45,351 - EBankingTest -INFO - password provided
+2021-08-23 18:36:51,152 - EBankingTest -INFO - Login passed
+2021-08-23 18:44:02,817 - EBankingTest -INFO - user name provided
+2021-08-23 18:44:02,920 - EBankingTest -INFO - password provided
+2021-08-23 18:53:05,531 - EBankingTest -INFO - user name provided
+2021-08-23 18:53:05,648 - EBankingTest -INFO - password provided
+2021-08-23 19:02:45,101 - EBankingTest -INFO - user name provided
+2021-08-23 19:02:45,230 - EBankingTest -INFO - password provided
+2021-08-23 19:15:33,828 - EBankingTest -INFO - user name provided
+2021-08-23 19:15:33,937 - EBankingTest -INFO - password provided
+2021-08-23 19:22:52,884 - EBankingTest -INFO - user name provided
+2021-08-23 19:22:52,989 - EBankingTest -INFO - password provided
+2021-08-23 19:35:38,022 - EBankingTest -INFO - user name provided
+2021-08-23 19:35:38,122 - EBankingTest -INFO - password provided
+2021-08-23 19:37:27,951 - EBankingTest -INFO - user name provided
+2021-08-23 19:37:28,095 - EBankingTest -INFO - password provided
+2021-08-24 00:09:06,635 - EBankingTest -INFO - user name provided
+2021-08-24 00:09:06,793 - EBankingTest -INFO - password provided
+2021-08-24 00:29:49,516 - EBankingTest -INFO - user name provided
+2021-08-24 00:29:49,622 - EBankingTest -INFO - password provided
+2021-08-24 00:43:08,224 - EBankingTest -INFO - user name provided
+2021-08-24 00:43:08,335 - EBankingTest -INFO - password provided
+2021-08-24 00:47:37,666 - EBankingTest -INFO - user name provided
+2021-08-24 00:47:37,757 - EBankingTest -INFO - password provided
+2021-08-24 00:54:32,164 - EBankingTest -INFO - user name provided
+2021-08-24 00:54:32,258 - EBankingTest -INFO - password provided
+2021-08-24 00:54:36,752 - EBankingTest -INFO - Login passed
+2021-08-24 01:12:02,895 - EBankingTest -INFO - user name provided
+2021-08-24 01:12:03,010 - EBankingTest -INFO - password provided
+2021-08-24 01:12:07,870 - EBankingTest -INFO - Login passed
+2021-08-24 01:31:42,054 - EBankingTest -INFO - user name provided
+2021-08-24 01:31:42,139 - EBankingTest -INFO - password provided
+2021-08-24 01:31:46,737 - EBankingTest -INFO - Login passed
+2021-08-24 12:14:34,299 - EBankingTest -INFO - user name provided
+2021-08-24 12:14:34,526 - EBankingTest -INFO - password provided
+2021-08-24 12:14:39,284 - EBankingTest -INFO - Login passed
+2021-08-24 12:29:26,122 - EBankingTest -INFO - user name provided
+2021-08-24 12:29:26,218 - EBankingTest -INFO - password provided
+2021-08-24 12:29:30,610 - EBankingTest -INFO - Login passed
+2021-08-24 14:17:15,626 - EBankingTest -INFO - user name provided
+2021-08-24 14:17:15,764 - EBankingTest -INFO - password provided
+2021-08-24 14:17:20,330 - EBankingTest -INFO - Login passed
+2021-08-24 14:20:06,732 - EBankingTest -INFO - [[Ljava.lang.String;@7c1a8f0f
+2021-08-24 14:20:06,916 - EBankingTest -INFO - user name provided
+2021-08-24 14:20:07,046 - EBankingTest -INFO - password provided
+2021-08-24 14:20:11,545 - EBankingTest -INFO - Login passed
+2021-08-24 14:21:27,315 - EBankingTest -INFO - [[Ljava.lang.String;@fd413fb, [Ljava.lang.String;@1e1232cf, [Ljava.lang.String;@6f6efa4f, [Ljava.lang.String;@4451f60c, [Ljava.lang.String;@6b357eb6]
+2021-08-24 14:21:27,447 - EBankingTest -INFO - user name provided
+2021-08-24 14:21:27,543 - EBankingTest -INFO - password provided
+2021-08-24 14:21:31,909 - EBankingTest -INFO - Login passed
+2021-08-24 14:26:23,498 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,539 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,590 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,624 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,655 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,685 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,733 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,762 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,792 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,851 - EBankingTest -INFO - i am executing this test case
+2021-08-24 14:26:23,983 - EBankingTest -INFO - user name provided
+2021-08-24 14:26:24,061 - EBankingTest -INFO - password provided
+2021-08-24 14:26:28,390 - EBankingTest -INFO - Login passed
+2021-08-24 14:37:56,405 - EBankingTest -INFO - Data is mngr347889 | vYjYsar
+2021-08-24 14:37:57,262 - EBankingTest -INFO - Data is mngr83460 | qAbUzyj
+2021-08-24 14:37:57,276 - EBankingTest -INFO - Data is mngr347889 | vYjYsar
+2021-08-24 14:37:57,290 - EBankingTest -INFO - Data is mngr164225 | jahetAp
+2021-08-24 14:37:57,301 - EBankingTest -INFO - Data is mngr112909 | tytUreg
+2021-08-24 14:40:20,472 - EBankingTest -INFO - Started with Data is mngr347889 | vYjYsar
+2021-08-24 14:40:20,664 - EBankingTest -INFO - user name provided
+2021-08-24 14:40:20,790 - EBankingTest -INFO - password provided
+2021-08-24 14:40:25,214 - EBankingTest -INFO - Login passed
+2021-08-24 14:40:30,881 - EBankingTest -INFO - ended with Data is mngr347889 | vYjYsar
+2021-08-24 14:40:31,597 - EBankingTest -INFO - Started with Data is mngr83460 | qAbUzyj
+2021-08-24 14:40:31,631 - EBankingTest -INFO - Started with Data is mngr347889 | vYjYsar
+2021-08-24 14:40:31,648 - EBankingTest -INFO - Started with Data is mngr164225 | jahetAp
+2021-08-24 14:40:31,659 - EBankingTest -INFO - Started with Data is mngr112909 | tytUreg
+2021-08-24 14:41:57,175 - EBankingTest -INFO - Started with Data is mngr347889 | vYjYsar
+2021-08-24 14:41:57,484 - EBankingTest -INFO - user name provided
+2021-08-24 14:41:57,585 - EBankingTest -INFO - password provided
+2021-08-24 14:42:02,154 - EBankingTest -INFO - Login passed
+2021-08-24 14:42:08,297 - EBankingTest -INFO - ended with Data is mngr347889 | vYjYsar
+2021-08-24 14:42:08,355 - EBankingTest -INFO - Started with Data is mngr83460 | qAbUzyj
+2021-08-24 14:42:08,372 - EBankingTest -INFO - Started with Data is mngr347889 | vYjYsar
+2021-08-24 14:42:08,387 - EBankingTest -INFO - Started with Data is mngr164225 | jahetAp
+2021-08-24 14:42:08,406 - EBankingTest -INFO - Started with Data is mngr112909 | tytUreg
+2021-08-24 14:48:30,554 - EBankingTest -INFO - user name provided
+2021-08-24 14:48:30,619 - EBankingTest -INFO - password provided
+2021-08-24 14:48:35,012 - EBankingTest -INFO - Login passed
+2021-08-25 11:38:09,778 - EBankingTest -INFO - user name provided
+2021-08-25 11:38:09,894 - EBankingTest -INFO - password provided
+2021-08-25 11:38:16,417 - EBankingTest -INFO - Login passed
+2021-08-25 11:43:05,602 - EBankingTest -INFO - user name provided
+2021-08-25 11:43:05,696 - EBankingTest -INFO - password provided
+2021-08-25 11:43:11,509 - EBankingTest -INFO - Login passed
+2021-08-25 11:43:49,856 - EBankingTest -INFO - user name provided
+2021-08-25 11:43:49,917 - EBankingTest -INFO - password provided
+2021-08-25 11:43:56,023 - EBankingTest -INFO - user name provided
+2021-08-25 11:43:56,080 - EBankingTest -INFO - password provided
+2021-08-25 11:44:00,167 - EBankingTest -INFO - Login passed
+2021-08-25 11:44:05,390 - EBankingTest -INFO - user name provided
+2021-08-25 11:44:05,457 - EBankingTest -INFO - password provided
+2021-08-25 11:44:10,237 - EBankingTest -INFO - user name provided
+2021-08-25 11:44:10,297 - EBankingTest -INFO - password provided
+2021-08-25 12:28:12,706 - EBankingTest -INFO - user name provided
+2021-08-25 12:28:12,799 - EBankingTest -INFO - password provided
+2021-08-25 12:28:17,155 - EBankingTest -INFO - Login passed
+2021-08-25 12:28:22,598 - EBankingTest -INFO - user name provided
+2021-08-25 12:28:22,662 - EBankingTest -INFO - password provided
+2021-08-25 12:28:28,281 - EBankingTest -INFO - user name provided
+2021-08-25 12:28:28,344 - EBankingTest -INFO - password provided
+2021-08-25 12:28:32,372 - EBankingTest -INFO - Login passed
+2021-08-25 12:28:37,790 - EBankingTest -INFO - user name provided
+2021-08-25 12:28:37,858 - EBankingTest -INFO - password provided
+2021-08-25 12:28:42,767 - EBankingTest -INFO - user name provided
+2021-08-25 12:28:42,824 - EBankingTest -INFO - password provided
+2021-08-25 12:36:51,538 - EBankingTest -INFO - user name provided
+2021-08-25 12:36:51,631 - EBankingTest -INFO - password provided
+2021-08-25 12:36:56,099 - EBankingTest -INFO - Login passed
+2021-08-25 12:37:01,460 - EBankingTest -INFO - user name provided
+2021-08-25 12:37:01,531 - EBankingTest -INFO - password provided
+2021-08-25 12:37:06,335 - EBankingTest -INFO - user name provided
+2021-08-25 12:37:06,403 - EBankingTest -INFO - password provided
+2021-08-25 12:37:10,367 - EBankingTest -INFO - Login passed
+2021-08-25 12:37:16,404 - EBankingTest -INFO - user name provided
+2021-08-25 12:37:16,461 - EBankingTest -INFO - password provided
+2021-08-25 12:37:21,045 - EBankingTest -INFO - user name provided
+2021-08-25 12:37:21,101 - EBankingTest -INFO - password provided
+2021-08-25 16:07:38,619 - EBankingTest -INFO - User name is provided
+2021-08-25 16:07:38,777 - EBankingTest -INFO - Passsword is provided
+2021-08-25 16:07:43,355 - EBankingTest -INFO - providing customer details....
+2021-08-25 16:07:53,356 - EBankingTest -INFO - validation started....
+2021-08-25 16:07:53,395 - EBankingTest -INFO - test case passed....
+2021-08-25 16:34:39,900 - EBankingTest -INFO - URL is opened
+2021-08-25 16:34:40,061 - EBankingTest -INFO - Entered User Name
+2021-08-25 16:34:40,157 - EBankingTest -INFO - Entered Password
+2021-08-25 16:34:41,537 - EBankingTest -INFO - Login Test Pass
+2021-08-25 16:34:48,263 - EBankingTest -INFO - user name provided
+2021-08-25 16:34:48,353 - EBankingTest -INFO - password provided
+2021-08-25 16:34:52,800 - EBankingTest -INFO - Login passed
+2021-08-25 16:34:58,213 - EBankingTest -INFO - user name provided
+2021-08-25 16:34:58,292 - EBankingTest -INFO - password provided
+2021-08-25 16:35:03,092 - EBankingTest -INFO - user name provided
+2021-08-25 16:35:03,181 - EBankingTest -INFO - password provided
+2021-08-25 16:35:07,327 - EBankingTest -INFO - Login passed
+2021-08-25 16:35:12,885 - EBankingTest -INFO - user name provided
+2021-08-25 16:35:13,036 - EBankingTest -INFO - password provided
+2021-08-25 16:35:18,095 - EBankingTest -INFO - user name provided
+2021-08-25 16:35:18,179 - EBankingTest -INFO - password provided
+2021-08-25 16:35:29,618 - EBankingTest -INFO - User name is provided
+2021-08-25 16:35:29,708 - EBankingTest -INFO - Passsword is provided
+2021-08-25 16:35:34,617 - EBankingTest -INFO - providing customer details....
+2021-08-25 16:35:44,664 - EBankingTest -INFO - validation started....
+2021-08-25 16:35:44,695 - EBankingTest -INFO - test case passed....
+2021-08-25 17:39:21,953 - EBankingTest -INFO - URL is opened
+2021-08-25 17:39:22,074 - EBankingTest -INFO - Entered User Name
+2021-08-25 17:39:22,167 - EBankingTest -INFO - Entered Password
+2021-08-25 17:39:23,472 - EBankingTest -INFO - Login Test Pass
+2021-08-25 17:39:29,522 - EBankingTest -INFO - user name provided
+2021-08-25 17:39:29,629 - EBankingTest -INFO - password provided
+2021-08-25 17:39:34,073 - EBankingTest -INFO - Login passed
+2021-08-25 17:39:39,568 - EBankingTest -INFO - user name provided
+2021-08-25 17:39:39,630 - EBankingTest -INFO - password provided
+2021-08-25 17:39:44,565 - EBankingTest -INFO - user name provided
+2021-08-25 17:39:44,626 - EBankingTest -INFO - password provided
+2021-08-25 17:39:48,781 - EBankingTest -INFO - Login passed
+2021-08-25 17:39:54,736 - EBankingTest -INFO - user name provided
+2021-08-25 17:39:54,793 - EBankingTest -INFO - password provided
+2021-08-25 17:39:59,416 - EBankingTest -INFO - user name provided
+2021-08-25 17:39:59,477 - EBankingTest -INFO - password provided
+2021-08-25 17:40:09,566 - EBankingTest -INFO - User name is provided
+2021-08-25 17:40:09,671 - EBankingTest -INFO - Passsword is provided
+2021-08-25 17:40:14,855 - EBankingTest -INFO - providing customer details....
+2021-08-25 17:40:25,020 - EBankingTest -INFO - validation started....
+2021-08-25 17:40:25,045 - EBankingTest -INFO - test case passed....
+2021-08-25 18:47:09,361 - EBankingTest -INFO - URL is opened
+2021-08-25 18:47:09,477 - EBankingTest -INFO - Entered User Name
+2021-08-25 18:47:09,587 - EBankingTest -INFO - Entered Password
+2021-08-25 18:47:11,052 - EBankingTest -INFO - Login Test Pass
+2021-08-25 18:47:16,930 - EBankingTest -INFO - user name provided
+2021-08-25 18:47:17,015 - EBankingTest -INFO - password provided
+2021-08-25 18:47:21,729 - EBankingTest -INFO - Login passed
+2021-08-25 18:47:27,411 - EBankingTest -INFO - user name provided
+2021-08-25 18:47:27,474 - EBankingTest -INFO - password provided
+2021-08-25 18:47:36,256 - EBankingTest -INFO - user name provided
+2021-08-25 18:47:36,314 - EBankingTest -INFO - password provided
+2021-08-25 18:47:42,554 - EBankingTest -INFO - Login passed
+2021-08-25 18:47:50,846 - EBankingTest -INFO - user name provided
+2021-08-25 18:47:50,909 - EBankingTest -INFO - password provided
+2021-08-25 18:48:15,665 - EBankingTest -INFO - user name provided
+2021-08-25 18:48:15,728 - EBankingTest -INFO - password provided
+2021-08-25 18:48:25,876 - EBankingTest -INFO - User name is provided
+2021-08-25 18:48:25,965 - EBankingTest -INFO - Passsword is provided
+2021-08-25 18:48:30,810 - EBankingTest -INFO - providing customer details....
+2021-08-25 18:48:41,134 - EBankingTest -INFO - validation started....
+2021-08-25 18:48:41,160 - EBankingTest -INFO - test case passed....
+2021-08-25 18:50:10,951 - EBankingTest -INFO - URL is opened
+2021-08-25 18:50:11,096 - EBankingTest -INFO - Entered User Name
+2021-08-25 18:50:11,218 - EBankingTest -INFO - Entered Password
+2021-08-25 18:50:12,580 - EBankingTest -INFO - Login Test Pass
+2021-08-25 18:50:18,080 - EBankingTest -INFO - user name provided
+2021-08-25 18:50:18,160 - EBankingTest -INFO - password provided
+2021-08-25 18:50:22,373 - EBankingTest -INFO - Login passed
+2021-08-25 18:50:28,875 - EBankingTest -INFO - user name provided
+2021-08-25 18:50:28,939 - EBankingTest -INFO - password provided
+2021-08-25 18:50:46,381 - EBankingTest -INFO - user name provided
+2021-08-25 18:50:46,449 - EBankingTest -INFO - password provided
+2021-08-25 18:50:51,232 - EBankingTest -INFO - Login passed
+2021-08-25 18:50:57,161 - EBankingTest -INFO - user name provided
+2021-08-25 18:50:57,222 - EBankingTest -INFO - password provided
+2021-08-25 18:51:08,407 - EBankingTest -INFO - user name provided
+2021-08-25 18:51:08,465 - EBankingTest -INFO - password provided
+2021-08-25 18:51:24,553 - EBankingTest -INFO - User name is provided
+2021-08-25 18:51:24,645 - EBankingTest -INFO - Passsword is provided
+2021-08-25 18:51:32,868 - EBankingTest -INFO - providing customer details....
+2021-08-25 18:51:43,599 - EBankingTest -INFO - validation started....
+2021-08-25 18:51:43,631 - EBankingTest -INFO - test case passed....
+2021-08-25 18:55:16,557 - EBankingTest -INFO - URL is opened
+2021-08-25 18:55:16,689 - EBankingTest -INFO - Entered User Name
+2021-08-25 18:55:16,775 - EBankingTest -INFO - Entered Password
+2021-08-25 18:55:17,911 - EBankingTest -INFO - Login Test Pass
+2021-08-25 18:55:22,694 - EBankingTest -INFO - User name is provided
+2021-08-25 18:55:22,782 - EBankingTest -INFO - Passsword is provided
+2021-08-25 18:55:27,661 - EBankingTest -INFO - providing customer details....
+2021-08-25 18:55:37,488 - EBankingTest -INFO - validation started....
+2021-08-25 18:55:37,531 - EBankingTest -INFO - test case passed....
+2021-08-25 19:14:45,842 - EBankingTest -INFO - URL is opened
+2021-08-25 19:14:45,987 - EBankingTest -INFO - Entered User Name
+2021-08-25 19:14:46,108 - EBankingTest -INFO - Entered Password
+2021-08-25 19:14:47,130 - EBankingTest -INFO - Login Test Pass
+2021-08-25 19:14:51,929 - EBankingTest -INFO - User name is provided
+2021-08-25 19:14:52,021 - EBankingTest -INFO - Passsword is provided
+2021-08-25 19:14:56,687 - EBankingTest -INFO - providing customer details....
+2021-08-25 19:15:06,583 - EBankingTest -INFO - validation started....
+2021-08-25 19:15:06,595 - EBankingTest -INFO - test case passed....
+2021-08-25 19:15:57,869 - EBankingTest -INFO - URL is opened
+2021-08-25 19:15:57,989 - EBankingTest -INFO - Entered User Name
+2021-08-25 19:15:58,081 - EBankingTest -INFO - Entered Password
+2021-08-25 19:15:59,216 - EBankingTest -INFO - Login Test Pass
+2021-08-25 19:16:04,305 - EBankingTest -INFO - User name is provided
+2021-08-25 19:16:04,430 - EBankingTest -INFO - Passsword is provided
+2021-08-25 19:16:09,173 - EBankingTest -INFO - providing customer details....
+2021-08-25 19:16:18,407 - EBankingTest -INFO - validation started....
+2021-08-25 20:40:27,101 - EBankingTest -INFO - URL is opened
+2021-08-25 20:40:27,261 - EBankingTest -INFO - Entered User Name
+2021-08-25 20:40:27,356 - EBankingTest -INFO - Entered Password
+2021-08-25 20:40:28,510 - EBankingTest -INFO - Login Test Pass
+2021-08-25 20:40:33,466 - EBankingTest -INFO - User name is provided
+2021-08-25 20:40:33,586 - EBankingTest -INFO - Passsword is provided
+2021-08-25 20:40:38,384 - EBankingTest -INFO - providing customer details....
+2021-08-25 20:41:33,926 - EBankingTest -INFO - validation started....
+2021-08-25 20:41:33,968 - EBankingTest -INFO - test case passed....
+2021-08-26 19:36:06,835 - EBankingTest -INFO - URL is opened
+2021-08-26 19:36:07,038 - EBankingTest -INFO - Entered User Name
+2021-08-26 19:36:07,143 - EBankingTest -INFO - Entered Password
+2021-08-26 19:36:08,206 - EBankingTest -INFO - Login Test Pass
+2021-08-26 19:36:13,232 - EBankingTest -INFO - User name is provided
+2021-08-26 19:36:13,322 - EBankingTest -INFO - Passsword is provided
+2021-08-26 19:36:18,157 - EBankingTest -INFO - providing customer details....
+2021-08-26 19:36:28,044 - EBankingTest -INFO - validation started....
+2021-08-26 19:36:28,084 - EBankingTest -INFO - test case passed....
